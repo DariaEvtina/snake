@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,9 +11,12 @@ namespace Snake_Console
         public int x;
         public int y;
         public char sym;
-        public Point(int _x,int y_)
+        public Point(int _x,int y_,char sym_)
         {
-            Console.WriteLine("LOADING");
+            Console.WriteLine("LOADING...");
+            x = _x;
+            y = y_;
+            sym = sym_;
         }
         public void Draw()
         {
