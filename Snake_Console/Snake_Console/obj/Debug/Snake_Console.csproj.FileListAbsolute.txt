@@ -1,0 +1,7 @@
+C:\Users\opilane\projects\EvtinaTARpv20\Snake_Console\Snake_Console\obj\Debug\Snake_Console.csprojAssemblyReference.cache
+C:\Users\opilane\projects\EvtinaTARpv20\Snake_Console\Snake_Console\obj\Debug\Snake_Console.csproj.CoreCompileInputs.cache
+C:\Users\opilane\projects\EvtinaTARpv20\Snake_Console\Snake_Console\bin\Debug\Snake_Console.exe.config
+C:\Users\opilane\projects\EvtinaTARpv20\Snake_Console\Snake_Console\bin\Debug\Snake_Console.exe
+C:\Users\opilane\projects\EvtinaTARpv20\Snake_Console\Snake_Console\bin\Debug\Snake_Console.pdb
+C:\Users\opilane\projects\EvtinaTARpv20\Snake_Console\Snake_Console\obj\Debug\Snake_Console.exe
+C:\Users\opilane\projects\EvtinaTARpv20\Snake_Console\Snake_Console\obj\Debug\Snake_Console.pdb
