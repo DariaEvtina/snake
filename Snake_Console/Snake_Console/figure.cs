@@ -25,8 +25,8 @@ namespace Snake_Console
                 {
                     return true;
                 }
-                return false;
             }
+            return false;
         }
         private bool IsHit(Point point)
         {
@@ -36,8 +36,8 @@ namespace Snake_Console
                 {
                     return true;
                 }
-                return false;
             }
+            return false;
         }
     }
 }
