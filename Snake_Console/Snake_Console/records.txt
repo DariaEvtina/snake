@@ -1,0 +1,5 @@
+daria : 2
+polina : 1
+catbrat : 6
+daria : 9
+brat228 : 0
